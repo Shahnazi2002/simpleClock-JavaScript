@@ -1,0 +1,15 @@
+body {
+  background: black;
+}
+
+.clock {
+  position: fixed;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #17d4fe;
+  font-size: 80px;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 7px;
+}
